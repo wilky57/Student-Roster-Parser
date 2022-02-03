@@ -1,9 +1,4 @@
-//
-//  roster.cpp
-//  C867
-//
-//  Created by William Kee on 11/29/21.
-//
+
 
 #include <iostream>
 #include <string>
