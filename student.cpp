@@ -1,9 +1,4 @@
-//
-//  student.cpp
-//  C867
-//
-//  Created by William Kee on 11/29/21.
-//
+
 #include "student.hpp"
 #include <iostream>
 #include <string>
