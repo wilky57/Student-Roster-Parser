@@ -14,12 +14,6 @@ int main() {
             "A3,Jack,Napoli,The_lawyer99yahoo.com,19,20,40,33,SOFTWARE",
             "A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY",
             "A5,Jane,Doe,jDOE@ut.edu,29,30,40,21,SOFTWARE" };
-    
-    
-    cout << "C867 - Scripting & Programming: Applications" << endl;
-    cout << "Language: C++" << endl;
-    cout << "Student ID: 001142366" << endl;
-    cout << "William Kee" << endl << endl;
    
     Roster classRoster;
     
